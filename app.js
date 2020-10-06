@@ -27,6 +27,7 @@ app.get("/generateReport", (req, res) => {
 				"footer": {
 					"height": "10mm",
 				},
+				"phantomPath": '/opt/phantomjs_linux-x86_64'
 			};
 			pdf.create(data, options).toFile("report.pdf", function (err, data) {
 				if (err) {
