@@ -4,13 +4,20 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "serverless deploy"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ejs": "^2.6.1",
-    "express": "^4.16.4",
-    "html-pdf": "^2.2.0"
+    "aws-sdk": "^2.767.0",
+    "aws-serverless-express": "^3.3.8",
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "html-pdf": "^2.2.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "serverless": "^2.4.0"
   }
 }

@@ -1,0 +1,2528 @@
+{
+    "board_comments": [],
+    "description": "",
+    "tags": [
+      ""
+    ],
+    "shared_count": 7,
+    "dislikes": 0,
+    "shared_with": [
+      1320,
+      1320,
+      2,
+      -1,
+      402,
+      -1,
+      1354
+    ],
+    "created_on": "Thu Aug 27 12:12:19 2020",
+    "likes": 0,
+    "owned_board": true,
+    "board_id": 291,
+    "user_id": 1320,
+    "title": "Loungewear Solids",
+    "liked_by_the_user": 0,
+    "board_images": [
+      {
+        "sku": "563946032",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=563946032",
+        "product_id": "808895d07b44e05d1f4529595b0d7554bcaf53c0b7a2532b9de968a946f4b494",
+        "rank_absolute": 1,
+        "color": "Navy Blue/Regular",
+        "product_name": "Utility Jogger in Linen-Cotton",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/808895d07b44e05d1f4529595b0d7554bcaf53c0b7a2532b9de968a946f4b494.jpg",
+        "mrp": {
+          "INR": 4573.08
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2746.13
+        },
+        "discount": 39.94995829858216,
+        "category_id": 59,
+        "rank_percentile": 99.95391705069125,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "14862294",
+        "pdp_url": "https://www.asos.com/dorina/dorina-cloud-super-soft-lounge-top-with-tie-waist-in-pink/prd/14862294?colourwayid=16649785",
+        "product_id": "9f292b5bde00a150aa4404d67acd6fc4a2a1a25c4aa2679eb219e465701f2dcf",
+        "rank_absolute": 37287,
+        "color": "Pink",
+        "product_name": "Dorina Cloud super soft lounge top with tie waist in pink",
+        "feature_image": "https://images.asos-media.com/products/dorina-cloud-super-soft-lounge-top-with-tie-waist-in-pink/14862294-1-pink",
+        "mrp": {
+          "INR": 2254.32
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 1803.46
+        },
+        "discount": 20.000000000000004,
+        "category_id": 110,
+        "rank_percentile": 38.029351150113015,
+        "brand": "Dorina",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "21439922",
+        "pdp_url": "https://www.asos.com/nike-football/nike-football-park-knit-shorts-in-red/prd/21439922?colourwayid=60167070",
+        "product_id": "2091e39f1dad3069f50254b0ae270976462efda96f96409497dcbc2e79893787",
+        "rank_absolute": 68,
+        "color": "Red",
+        "product_name": "Nike Football park knit shorts in red",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/2091e39f1dad3069f50254b0ae270976462efda96f96409497dcbc2e79893787.jpg",
+        "mrp": {
+          "INR": 1122.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 1122.46
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 98.76214927562809,
+        "brand": "Nike Football",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "165367",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/165367/edit-wide-leg-loopback-joggers",
+        "product_id": "53dbfabea20198f654ca2f0b70ada1967deeb984a811b1b6e731a9f4c8aeff27",
+        "rank_absolute": 5,
+        "color": "Festive Red",
+        "product_name": "Edit Wide Leg Loopback Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/56/53dbfabea20198f654ca2f0b70ada1967deeb984a811b1b6e731a9f4c8aeff27.jpg",
+        "mrp": {
+          "INR": 5165.21
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 2,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 2583.07
+        },
+        "discount": 49.99090743771595,
+        "category_id": 59,
+        "rank_percentile": 99.51403887688984,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "941600002",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=941600002",
+        "product_id": "e3bfc007a2ddcbeb37892fef6898f2ba3a4aa652877755859cde45584887f4d7",
+        "rank_absolute": 5,
+        "color": "True Black/Regular",
+        "product_name": "GapFit Studio Side-Stripe Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/e3bfc007a2ddcbeb37892fef6898f2ba3a4aa652877755859cde45584887f4d7.jpg",
+        "mrp": {
+          "INR": 5335.89
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 5335.89
+        },
+        "discount": 0,
+        "category_id": 59,
+        "rank_percentile": 99.5852534562212,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "41573883",
+        "pdp_url": "https://www.hollisterco.com/shop/us/p/ultra-high-rise-banded-sweatpants-40979823?originalStore=wd&categoryId=6898211&seq=04",
+        "product_id": "66155422da3e6c266a8d58674d24d33f79fad99a3827ba5cda6c9c3206634b25",
+        "rank_absolute": 12,
+        "color": "Dark Grey",
+        "product_name": "Ultra High-Rise Dad Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/06/29/66155422da3e6c266a8d58674d24d33f79fad99a3827ba5cda6c9c3206634b25.jpg",
+        "mrp": {
+          "INR": 3031.91
+        },
+        "locale_id": 1,
+        "channel_id": 29,
+        "label_id": 3,
+        "launch_on": "3 months ago",
+        "selling_price": {
+          "INR": 22031.82
+        },
+        "discount": 0,
+        "category_id": 323,
+        "rank_percentile": 89.04761904761905,
+        "brand": "Hollister",
+        "channel": "Hollister US",
+        "department_id": 2
+      },
+      {
+        "sku": "165769",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/165769/sonoran-tencel-joggers",
+        "product_id": "1cdc34bc3cf2ef091e593aeb74752a6d6cf444d54ce969c7a0fb9cd7ba5a68da",
+        "rank_absolute": 17,
+        "color": "Black",
+        "product_name": "Sonoran Tencel Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/1cdc34bc3cf2ef091e593aeb74752a6d6cf444d54ce969c7a0fb9cd7ba5a68da.jpg",
+        "mrp": {
+          "INR": 5165.21
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2583.07
+        },
+        "discount": 49.99090743771595,
+        "category_id": 59,
+        "rank_percentile": 98.2181425485961,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "165770",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/165770/sonoran-tencel-joggers",
+        "product_id": "f46ed3791706c08954868923f6ac5a005a07dab28aec7887d62271663866d406",
+        "rank_absolute": 8,
+        "color": "Bungee Cord",
+        "product_name": "Sonoran Tencel Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/f46ed3791706c08954868923f6ac5a005a07dab28aec7887d62271663866d406.jpg",
+        "mrp": {
+          "INR": 5165.21
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2583.07
+        },
+        "discount": 49.99090743771595,
+        "category_id": 59,
+        "rank_percentile": 99.19006479481641,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14834501",
+        "pdp_url": "https://www.asos.com/asos-4505/asos-4505-breathable-animal-jacquard-t-shirt/prd/14834501?colourwayid=16647764",
+        "product_id": "b2d9e76e32c9f02da2a5a943df058f665677363cc355b4eb91937da9fcfa49ba",
+        "rank_absolute": 149,
+        "color": "Khaki",
+        "product_name": "ASOS 4505 breathable animal jacquard t-shirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/b2d9e76e32c9f02da2a5a943df058f665677363cc355b4eb91937da9fcfa49ba.jpg",
+        "mrp": {
+          "INR": 1502.88
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 1502.88
+        },
+        "discount": 0,
+        "category_id": 2,
+        "rank_percentile": 83.33333333333333,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "149939",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/149939/elissa-joggers-",
+        "product_id": "f45c40b8366199bb27dfe82d925848d432f6ba3d31ad4309558a3a1cba14141a",
+        "rank_absolute": 23,
+        "color": "Sienna Pink",
+        "product_name": "Elissa Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/f45c40b8366199bb27dfe82d925848d432f6ba3d31ad4309558a3a1cba14141a.jpg",
+        "mrp": {
+          "INR": 4695.56
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2348.25
+        },
+        "discount": 49.989997999599915,
+        "category_id": 59,
+        "rank_percentile": 97.57019438444924,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "538759052",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=538759052",
+        "product_id": "582a9f58877c003b6f7c33b12b59567b2a621c8c3d9c5476110d271ae4131df6",
+        "rank_absolute": 42,
+        "color": "Pink Raffia/Regular",
+        "product_name": "GapFit Hiking Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/582a9f58877c003b6f7c33b12b59567b2a621c8c3d9c5476110d271ae4131df6.jpg",
+        "mrp": {
+          "INR": 5335.89
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3203.82
+        },
+        "discount": 39.957112223016445,
+        "category_id": 59,
+        "rank_percentile": 96.17511520737327,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "539503042",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=539503042",
+        "product_id": "0352aee1536109daa5f2e50e379f9f92fd0b01c66db164dc40fde91fd6c35612",
+        "rank_absolute": 58,
+        "color": "Elysian Blue/Regular",
+        "product_name": "GapFit Brushed Jersey Crop Jogger",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/0352aee1536109daa5f2e50e379f9f92fd0b01c66db164dc40fde91fd6c35612.jpg",
+        "mrp": {
+          "INR": 3875.1
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2327.39
+        },
+        "discount": 39.93993993993994,
+        "category_id": 59,
+        "rank_percentile": 94.70046082949308,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "37063754",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/trousers-leggings-4075710/blue-classic-joggers-9868067",
+        "product_id": "df57c2a4bd437a26aeec4accf1013c685f9c30bf07f5fc4882628d6da8d0df94",
+        "rank_absolute": 42,
+        "color": "237966449",
+        "product_name": "Blue Classic Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/22/df57c2a4bd437a26aeec4accf1013c685f9c30bf07f5fc4882628d6da8d0df94.jpg",
+        "mrp": {
+          "INR": 2227.84
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2227.84
+        },
+        "discount": 0,
+        "category_id": 115,
+        "rank_percentile": 92.50902527075812,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "592690012",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=592690012",
+        "product_id": "1da876a7bed7a8fb2bfbb3e7246ca61081c9679a51b4e189d5c472147219ed55",
+        "rank_absolute": 49,
+        "color": "Light Indigo/Regular",
+        "product_name": "Utility Denim Cargo Pants",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/1da876a7bed7a8fb2bfbb3e7246ca61081c9679a51b4e189d5c472147219ed55.jpg",
+        "mrp": {
+          "INR": 7465.3
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 7465.3
+        },
+        "discount": 0,
+        "category_id": 59,
+        "rank_percentile": 95.52995391705069,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "55679609_060",
+        "pdp_url": "https://www.anthropologie.com/shop/sundry-stitched-sweatpants?color=060",
+        "product_id": "ce81967e949a063e18e4526811b8d7df791175bf41e6966bc82e2cba9d97d754",
+        "rank_absolute": 5,
+        "color": "Hibiscus",
+        "product_name": "Sundry Stitched Sweatpants",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/48/ce81967e949a063e18e4526811b8d7df791175bf41e6966bc82e2cba9d97d754.jpg",
+        "mrp": {
+          "INR": 12475.23
+        },
+        "locale_id": 1,
+        "channel_id": 48,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 12475.23
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 98.75,
+        "brand": "Sundry",
+        "channel": "Anthropologie US",
+        "department_id": 2
+      },
+      {
+        "sku": "20463262",
+        "pdp_url": "https://www.asos.com/columbia/columbia-lodge-jogger-in-peach/prd/20463262?colourwayid=60056035",
+        "product_id": "0f68f67976992d48a5796b6f7ec265b8e4334218cd2304ffe9a5c5757384556c",
+        "rank_absolute": 357,
+        "color": "Peach",
+        "product_name": "Columbia Lodge jogger in peach",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/10/0f68f67976992d48a5796b6f7ec265b8e4334218cd2304ffe9a5c5757384556c.jpg",
+        "mrp": {
+          "INR": 6105.45
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 4945.41
+        },
+        "discount": 19.000000000000004,
+        "category_id": 112,
+        "rank_percentile": 78.6654697785757,
+        "brand": "Columbia",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14009332",
+        "pdp_url": "https://www.asos.com/nike-training/nike-pro-training-logo-t-shirt-in-white/prd/14009332?colourwayid=16584340",
+        "product_id": "0314cfd7af542b5481564d99ba317bb2780f8017da637d717cc7241aca9f5f73",
+        "rank_absolute": 1077,
+        "color": "White",
+        "product_name": "Nike Pro Training logo t-shirt in white",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/06/10/0314cfd7af542b5481564d99ba317bb2780f8017da637d717cc7241aca9f5f73.jpg",
+        "mrp": {
+          "INR": 2817.9
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "3 months ago",
+        "selling_price": {
+          "INR": 2817.9
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 80.25857326242435,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "28975",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-super-soft-sweat-and-short/grp/28975?clr=&colourWayId=16598189",
+        "product_id": "3f3b928ae1ece4f2090b1032f91ab771611385fc04654a18cc50b191e652550d",
+        "rank_absolute": 62,
+        "color": "",
+        "product_name": "ASOS DESIGN mix & match lounge super soft sweat and short",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/3f3b928ae1ece4f2090b1032f91ab771611385fc04654a18cc50b191e652550d.jpg",
+        "mrp": {
+          "INR": 3438.26
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3438.26
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 95.9672131147541,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14530209",
+        "pdp_url": "https://www.asos.com/prd/14530209",
+        "product_id": "69a75d74f35f55ffd59025ad015120d177e9b3bb2b274cfd2db814d26f55d421",
+        "rank_absolute": 459,
+        "color": "Grey",
+        "product_name": "HIIT ruched leggings in grey",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/69a75d74f35f55ffd59025ad015120d177e9b3bb2b274cfd2db814d26f55d421.jpg",
+        "mrp": {
+          "INR": 1492.53
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1510.69
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 91.59178433889602,
+        "brand": "HIIT",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "25235",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-fluffy-v-neck-jumper-knitted-joggers-in-recycled-blend/grp/25235?clr=&colourWayId=16407662",
+        "product_id": "a492ef25591ba0592e05d84e7353057c369a0955c973c87d4f8582f9eace7e5b",
+        "rank_absolute": 72,
+        "color": "",
+        "product_name": "ASOS DESIGN fluffy v neck jumper & knitted joggers in recycled blend",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/a492ef25591ba0592e05d84e7353057c369a0955c973c87d4f8582f9eace7e5b.jpg",
+        "mrp": {
+          "INR": 5061.88
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 5061.88
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 95.31147540983606,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14530230",
+        "pdp_url": "https://www.asos.com/hiit/hiit-ruched-leggings-in-purple/prd/14530230?clr=&colourWayId=16623431",
+        "product_id": "30e85f5bd5826936bacb46947e7bda0f2ae419ee940254a811d0f81261e500d4",
+        "rank_absolute": 268,
+        "color": "Purple",
+        "product_name": "HIIT ruched leggings in purple",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/30e85f5bd5826936bacb46947e7bda0f2ae419ee940254a811d0f81261e500d4.jpg",
+        "mrp": {
+          "INR": 1489.92
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1489.92
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 95.09444342563727,
+        "brand": "HIIT",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "40709325",
+        "pdp_url": "https://www.hollisterco.com/shop/wd/p/ultra-high-rise-banded-sweatpants-40115819?categoryId=12626&seq=01",
+        "product_id": "b696afa6f4e7fa4c7d94a80209de64947f1cf4990688950b9d7b22a404be9b3f",
+        "rank_absolute": 38,
+        "color": "Black",
+        "product_name": "Ultra High-Rise Banded Sweatpants",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/29/b696afa6f4e7fa4c7d94a80209de64947f1cf4990688950b9d7b22a404be9b3f.jpg",
+        "mrp": {
+          "INR": 3040.59
+        },
+        "locale_id": 1,
+        "channel_id": 29,
+        "label_id": 4,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2985.12
+        },
+        "discount": 0,
+        "category_id": 323,
+        "rank_percentile": 64.28571428571429,
+        "brand": "Hollister",
+        "channel": "Hollister US",
+        "department_id": 2
+      },
+      {
+        "sku": "563946022",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=563946022",
+        "product_id": "3822c523bc0da5d47b188f218f78f2f9569e163fe58fb9544cb6b87e7aaa1e0c",
+        "rank_absolute": 39,
+        "color": "Fresh White/Regular",
+        "product_name": "Utility Jogger in Linen-Cotton",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/3822c523bc0da5d47b188f218f78f2f9569e163fe58fb9544cb6b87e7aaa1e0c.jpg",
+        "mrp": {
+          "INR": 4573.08
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2746.13
+        },
+        "discount": 39.94995829858216,
+        "category_id": 59,
+        "rank_percentile": 96.45161290322581,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "28503",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-super-soft-sweat-and-short/grp/28503?clr=&colourWayId=0",
+        "product_id": "c98c526f00fe662b631ae83b3ca49c5e512a1735934045f3cf13463d51faf102",
+        "rank_absolute": 44808,
+        "color": "",
+        "product_name": "ASOS DESIGN mix & match lounge super soft sweat and short",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/c98c526f00fe662b631ae83b3ca49c5e512a1735934045f3cf13463d51faf102.jpg",
+        "mrp": {
+          "INR": 3281.52
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 5,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 3281.52
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 25.529351150113015,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "538759062",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=538759062",
+        "product_id": "3e3612e9853b20abb526a56db95f68d874d19d1f6e0ea18c92010cf0d6775bae",
+        "rank_absolute": 43,
+        "color": "Bright Pink/Petite",
+        "product_name": "GapFit Hiking Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/3e3612e9853b20abb526a56db95f68d874d19d1f6e0ea18c92010cf0d6775bae.jpg",
+        "mrp": {
+          "INR": 5356.09
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 5356.09
+        },
+        "discount": 0,
+        "category_id": 59,
+        "rank_percentile": 96.08294930875576,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "14177970",
+        "pdp_url": "https://www.asos.com/asos-4505/asos-4505-macrame-loose-strap-yoga-vest/prd/14177970?colourwayid=16597282",
+        "product_id": "fe6ad61884a2a5179ad4a466975ebe1885ecd8036b0517032ae2c9dddb952c30",
+        "rank_absolute": 215,
+        "color": "Navy",
+        "product_name": "ASOS 4505 macrame loose strap yoga vest",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/fe6ad61884a2a5179ad4a466975ebe1885ecd8036b0517032ae2c9dddb952c30.jpg",
+        "mrp": {
+          "INR": 2066.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2066.46
+        },
+        "discount": 0,
+        "category_id": 2,
+        "rank_percentile": 75.92592592592592,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "28502",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-daytona-hooded-sweat-and-jogger-set/grp/28502?colourwayid=16555131",
+        "product_id": "c9c2e23ab95c7c61e907c872e097490d3533e97e801c5de7179844db9fc340b1",
+        "rank_absolute": 92,
+        "color": "",
+        "product_name": "ASOS DESIGN Daytona hooded sweat and jogger set",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/c9c2e23ab95c7c61e907c872e097490d3533e97e801c5de7179844db9fc340b1.jpg",
+        "mrp": {
+          "INR": 3660.74
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 3969.91
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 94,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "0493_4972_410",
+        "pdp_url": "https://www.ae.com/us/en/p/women/joggers-sweatpants/aerie-joggers-sweatpants/aerie-lace-beach-jogger/0493_4972_410?nvid=plp%3Acat510007&menu=cat4840006",
+        "product_id": "8e5de31557c63f03c6dd9ed8d816729e394d1c77e5ac5d2eb19c763d641da4c3",
+        "rank_absolute": 3,
+        "color": "Navy",
+        "product_name": "Aerie Lace Beach Jogger",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/38/8e5de31557c63f03c6dd9ed8d816729e394d1c77e5ac5d2eb19c763d641da4c3.jpg",
+        "mrp": {
+          "INR": 3409.02
+        },
+        "locale_id": 1,
+        "channel_id": 38,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2045.41
+        },
+        "discount": 40.00000000000001,
+        "category_id": 59,
+        "rank_percentile": 95.83333333333333,
+        "brand": "Aerie",
+        "channel": "Aerie US",
+        "department_id": 2
+      },
+      {
+        "sku": "37412135",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/shorts-448/blue-neppy-runner-shorts-9758285",
+        "product_id": "a48c8c62d417ae4beb638bed98e32f20376aa853ccc3542d283fb68131b8c766",
+        "rank_absolute": 222,
+        "color": "240538769",
+        "product_name": "Blue Neppy Runner Shorts",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/a48c8c62d417ae4beb638bed98e32f20376aa853ccc3542d283fb68131b8c766.jpg",
+        "mrp": {
+          "INR": 857.19
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 428.59
+        },
+        "discount": 50,
+        "category_id": 93,
+        "rank_percentile": 83.10450038138825,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "40709324",
+        "pdp_url": "https://www.hollisterco.com/shop/wd/p/ultra-high-rise-banded-sweatpants-40115819?categoryId=12626&seq=03",
+        "product_id": "450324934e82abafd8daee368551c960c961ebe369de2348615dd402dfa55d4f",
+        "rank_absolute": 41,
+        "color": "Light Blue",
+        "product_name": "Ultra High-Rise Banded Sweatpants",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/29/450324934e82abafd8daee368551c960c961ebe369de2348615dd402dfa55d4f.jpg",
+        "mrp": {
+          "INR": 3040.59
+        },
+        "locale_id": 1,
+        "channel_id": 29,
+        "label_id": 4,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 3035.6
+        },
+        "discount": 0,
+        "category_id": 323,
+        "rank_percentile": 61.42857142857143,
+        "brand": "Hollister",
+        "channel": "Hollister US",
+        "department_id": 2
+      },
+      {
+        "sku": "20908390",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-co-ord-oversized-jogger-in-buttermilk/prd/20908390?colourwayid=60098769",
+        "product_id": "2804573d7b5132aa438f055010a106af17de9e3a8b7561007dfdfc40095cfd6b",
+        "rank_absolute": 407,
+        "color": "Buttermilk",
+        "product_name": "ASOS DESIGN lounge co-ord oversized jogger in buttermilk",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/2804573d7b5132aa438f055010a106af17de9e3a8b7561007dfdfc40095cfd6b.jpg",
+        "mrp": {
+          "INR": 1878.6
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 1878.6
+        },
+        "discount": 0,
+        "category_id": 112,
+        "rank_percentile": 75.67324955116696,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "13912328",
+        "pdp_url": "https://www.asos.com/reebok/reebok-running-cropped-t-shirt-in-lemon/prd/13912328?colourwayid=16576073",
+        "product_id": "c9025cdd54b323d34843e63351dbbbeb4dc176e0c093a4d3d7aab3bfef450908",
+        "rank_absolute": 33,
+        "color": "Yellow",
+        "product_name": "Reebok Running cropped t-shirt in lemon",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/c9025cdd54b323d34843e63351dbbbeb4dc176e0c093a4d3d7aab3bfef450908.jpg",
+        "mrp": {
+          "INR": 2625.45
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 2176.03
+        },
+        "discount": 20.000000000000004,
+        "category_id": 2,
+        "rank_percentile": 96.35241301907969,
+        "brand": "Reebok",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14011455",
+        "pdp_url": "https://www.asos.com/nike-training/nike-yoga-luxe-crop-top-in-blue-grey/prd/14011455?colourwayid=16584516",
+        "product_id": "681b751667305e3c21f4937e8c70b1cf714217f1469c447d4e79fad066a23900",
+        "rank_absolute": 49101,
+        "color": "Blue",
+        "product_name": "Nike Yoga luxe crop top in blue grey",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/681b751667305e3c21f4937e8c70b1cf714217f1469c447d4e79fad066a23900.jpg",
+        "mrp": {
+          "INR": 3287.55
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 5,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3287.55
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 18.39432921154102,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "36892202",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/trousers-leggings-4075710/dusty-blue-twill-pull-on-joggers-9966323",
+        "product_id": "dc3eff10705fc19ee833df36cf13736a689981ad4d2cfde853c61bb14a29f78f",
+        "rank_absolute": 7,
+        "color": "236738814",
+        "product_name": "Dusty Blue Twill Pull On Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/22/dc3eff10705fc19ee833df36cf13736a689981ad4d2cfde853c61bb14a29f78f.jpg",
+        "mrp": {
+          "INR": 3085.03
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 2,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 3085.03
+        },
+        "discount": 0,
+        "category_id": 115,
+        "rank_percentile": 98.82671480144404,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "0493_4881_073",
+        "pdp_url": "https://www.ae.com/us/en/p/women/joggers-sweatpants/aerie-joggers-sweatpants/aerie-easy-jogger/0493_4881_073?nvid=plp%3Acat510007&menu=cat4840006",
+        "product_id": "f900c6428cb6ef45aa7fd1a871374e03d1edf40d341304080212c413eaa25509",
+        "rank_absolute": 4,
+        "color": "True Black",
+        "product_name": "Aerie Easy Jogger",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/38/f900c6428cb6ef45aa7fd1a871374e03d1edf40d341304080212c413eaa25509.jpg",
+        "mrp": {
+          "INR": 3409.02
+        },
+        "locale_id": 1,
+        "channel_id": 38,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2045.41
+        },
+        "discount": 40.00000000000001,
+        "category_id": 59,
+        "rank_percentile": 94.16666666666667,
+        "brand": "Aerie",
+        "channel": "Aerie US",
+        "department_id": 2
+      },
+      {
+        "sku": "41520428",
+        "pdp_url": "https://www.hollisterco.com/shop/wd/p/terry-full-zip-boyfriend-hoodie-40415319?categoryId=12631&seq=01",
+        "product_id": "ab1eb90cf7b0e0166a6363bfb4735ae389c7e30deaab31852a2991a028d6ed84",
+        "rank_absolute": 30,
+        "color": "Black",
+        "product_name": "Terry Full-Zip Crop Boyfriend Hoodie",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/06/29/ab1eb90cf7b0e0166a6363bfb4735ae389c7e30deaab31852a2991a028d6ed84.jpg",
+        "mrp": {
+          "INR": 2944.29
+        },
+        "locale_id": 1,
+        "channel_id": 29,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2944.29
+        },
+        "discount": 0,
+        "category_id": 265,
+        "rank_percentile": 89.57597173144876,
+        "brand": "Hollister",
+        "channel": "Hollister US",
+        "department_id": 2
+      },
+      {
+        "sku": "563946032",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=563946032",
+        "product_id": "40488edf5035a69981c62820e1fd52844bc7da13b4209fb44ac6628cb95cf25f",
+        "rank_absolute": 17,
+        "color": "Navy Blue",
+        "product_name": "Utility Joggers in Linen-Cotton",
+        "feature_image": "https://www.gap.com/webcontent/0018/627/473/cn18627473.jpg",
+        "mrp": {
+          "INR": 4512.35
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3543.22
+        },
+        "discount": 19.94995829858215,
+        "category_id": 59,
+        "rank_percentile": 98.47926267281106,
+        "brand": "Gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "20611594",
+        "pdp_url": "https://www.asos.com/nike-training/nike-training-one-tight-luxe-legging-in-black/prd/20611594?colourwayid=60072218",
+        "product_id": "c26e6c1f8342caa1da3d732e257dc5b6cfdafcde82c76107be476840ad16577a",
+        "rank_absolute": 450,
+        "color": "Black",
+        "product_name": "Nike Training one tight luxe legging in black",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/10/c26e6c1f8342caa1da3d732e257dc5b6cfdafcde82c76107be476840ad16577a.jpg",
+        "mrp": {
+          "INR": 6100.75
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 6100.75
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 91.75683110214561,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37173745",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/shorts-448/black-sporty-neppy-runner-shorts-9678718",
+        "product_id": "cf8923c52530cabedc50bb6566eb87b03dd5617c7b9c8b924399583132951042",
+        "rank_absolute": 221,
+        "color": "238774852",
+        "product_name": "Black Sporty Neppy Runner Shorts",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/cf8923c52530cabedc50bb6566eb87b03dd5617c7b9c8b924399583132951042.jpg",
+        "mrp": {
+          "INR": 857.19
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 857.19
+        },
+        "discount": 0,
+        "category_id": 93,
+        "rank_percentile": 83.18077803203661,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "13712173",
+        "pdp_url": "https://www.asos.com/asos-4505/asos-4505-petite-exclusive-high-waisted-legging-with-mono-elastic/prd/13712173?clr=&colourWayId=16559545",
+        "product_id": "e4be529a3b7ea231a675943548ccf129fb97723393179e5302cd459c6e7c5b48",
+        "rank_absolute": 423,
+        "color": "Mono",
+        "product_name": "ASOS 4505 Petite exclusive high waisted legging with mono elastic",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/e4be529a3b7ea231a675943548ccf129fb97723393179e5302cd459c6e7c5b48.jpg",
+        "mrp": {
+          "INR": 2048.64
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2048.64
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 92.25197139189437,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14968378",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-tall-exclusive-lounge-rib-top-in-pink/prd/14968378?colourwayid=16661229",
+        "product_id": "27c9c23163ea3dfb2ac29e49360089ef344f39c615eb793b9c29921958c9c4fb",
+        "rank_absolute": 1076,
+        "color": "Pink",
+        "product_name": "ASOS DESIGN Tall exclusive lounge rib top in pink",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/27c9c23163ea3dfb2ac29e49360089ef344f39c615eb793b9c29921958c9c4fb.jpg",
+        "mrp": {
+          "INR": 1315.02
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1061.41
+        },
+        "discount": 19.28571428571428,
+        "category_id": 110,
+        "rank_percentile": 98.2125049860391,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14966822",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-tall-exclusive-lounge-rib-skirt-in-pink/prd/14966822?colourwayid=16661115",
+        "product_id": "a22e20011b4483a41d20d81f8a884d32871c69bd830b9f6a74b22dbf6cc4b39b",
+        "rank_absolute": 121,
+        "color": "Pink",
+        "product_name": "ASOS DESIGN Tall exclusive lounge rib skirt in pink",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/a22e20011b4483a41d20d81f8a884d32871c69bd830b9f6a74b22dbf6cc4b39b.jpg",
+        "mrp": {
+          "INR": 1690.74
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1352.59
+        },
+        "discount": 19.999999999999996,
+        "category_id": 69,
+        "rank_percentile": 92.09836065573771,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20775201",
+        "pdp_url": "https://www.asos.com/in-the-style/in-the-style-x-billie-faiers-loungewear-ribbed-flare-trouser-in-blush/prd/20775201?colourwayid=60086946",
+        "product_id": "43af89b3372c64ad995b810715a557c8850bae4bb70eebd08ccb7f3e7f1a6973",
+        "rank_absolute": 189,
+        "color": "Blush",
+        "product_name": "In The Style x Billie Faiers loungewear ribbed flare trouser in blush",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/43af89b3372c64ad995b810715a557c8850bae4bb70eebd08ccb7f3e7f1a6973.jpg",
+        "mrp": {
+          "INR": 2066.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2066.46
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 87.63934426229508,
+        "brand": "In The Style",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20683491",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-brushed-rib-short-in-khaki/prd/20683491?colourwayid=60079113",
+        "product_id": "af4ebb1963d95baa8a54a8466f8daa775772af2c43c2641bc3e69e8443e1de50",
+        "rank_absolute": 161,
+        "color": "Khaki",
+        "product_name": "ASOS DESIGN mix & match lounge brushed rib short in khaki",
+        "feature_image": "https://images.asos-media.com/products/asos-design-mix-match-lounge-brushed-rib-short-in-khaki/20683491-1-khaki?$XXL$",
+        "mrp": {
+          "INR": 1127.16
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1127.16
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 89.47540983606558,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37526136",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/hoodies-sweats-6864676/blue-cropped-sweatshirt-9848715",
+        "product_id": "ebbfd6375e2e9e8e15f2feb1650b9eb1bb44437f917e47efb362ca712e86d265",
+        "rank_absolute": 96,
+        "color": "241343000",
+        "product_name": "Blue Cropped Sweatshirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/22/ebbfd6375e2e9e8e15f2feb1650b9eb1bb44437f917e47efb362ca712e86d265.jpg",
+        "mrp": {
+          "INR": 1320.38
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 1393.58
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 80.39014373716633,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20909181",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-oversized-jogger-in-grey-marl/prd/20909181?colourwayid=60098811",
+        "product_id": "a8570d1829fa1f7657d17bf5f4de0ea189cb68d777f44f9328e1e152e5ae9dad",
+        "rank_absolute": 175,
+        "color": "Grey",
+        "product_name": "ASOS DESIGN lounge oversized jogger in grey marl",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/a8570d1829fa1f7657d17bf5f4de0ea189cb68d777f44f9328e1e152e5ae9dad.jpg",
+        "mrp": {
+          "INR": 1970.33
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1902.54
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 88.55737704918033,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20102861",
+        "pdp_url": "https://www.asos.com/adidas-performance/adidas-outdoors-long-sleeve-t-shirt-in-grey/prd/20102861?colourwayid=60008815",
+        "product_id": "1fc90e3f3ec3999a32d114a03285ee341094871ee7ee8f34dc76fae42391df1d",
+        "rank_absolute": 528,
+        "color": "Grey",
+        "product_name": "adidas Outdoors long sleeve t-shirt in grey",
+        "feature_image": "https://images.asos-media.com/products/adidas-outdoors-long-sleeve-t-shirt-in-grey/20102861-1-grey?$XXL$",
+        "mrp": {
+          "INR": 3569.34
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2855.47
+        },
+        "discount": 20.000000000000004,
+        "category_id": 1,
+        "rank_percentile": 90.32642582064918,
+        "brand": "adidas performance",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "539499022",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=539499022",
+        "product_id": "1072b58d1edb5dce5508117c167a4366f22253e622fab58670081c8669e1e695",
+        "rank_absolute": 101,
+        "color": "True Black",
+        "product_name": "GapFit Runaround Crop Pants",
+        "feature_image": "https://www1.assets-gap.com/webcontent/0018/306/703/cn18306703.jpg",
+        "mrp": {
+          "INR": 4512.35
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2929.22
+        },
+        "discount": 33.29441201000834,
+        "category_id": 59,
+        "rank_percentile": 90.73732718894009,
+        "brand": "Gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "28624",
+        "pdp_url": "https://www.asos.com/south-beach/south-beach-slim-fit-joggers-in-beige/grp/28624?colourwayid=16610738",
+        "product_id": "d3798cc77622d9c9781e07b121e2555d2a6fadc2e7eb7b1e5e5a14054e54222f",
+        "rank_absolute": 317,
+        "color": "",
+        "product_name": "South Beach cropped hoodie and joggers in beige",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/d3798cc77622d9c9781e07b121e2555d2a6fadc2e7eb7b1e5e5a14054e54222f.jpg",
+        "mrp": {
+          "INR": 2066.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 2066.46
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 94.19585549238951,
+        "brand": "South Beach",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14011454",
+        "pdp_url": "https://www.asos.com/prd/14011454",
+        "product_id": "26692cf7ceeea6310b4098b6311d79ff2db67ffbcef1f3555e5110103764c2b1",
+        "rank_absolute": 318,
+        "color": "Purple",
+        "product_name": "Nike Yoga luxe leggings with stitch detail in lilac",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/26692cf7ceeea6310b4098b6311d79ff2db67ffbcef1f3555e5110103764c2b1.jpg",
+        "mrp": {
+          "INR": 7514.4
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 7514.4
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 94.17751696313955,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14011448",
+        "pdp_url": "https://www.asos.com/prd/14011448",
+        "product_id": "50ffa9a16abc45f5396ffa9cba79568c8633ceccd5da3bdd6e690983f7b2ab67",
+        "rank_absolute": 319,
+        "color": "Blue",
+        "product_name": "Nike Yoga luxe cropped leggings in blue",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/50ffa9a16abc45f5396ffa9cba79568c8633ceccd5da3bdd6e690983f7b2ab67.jpg",
+        "mrp": {
+          "INR": 5760.81
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 5760.81
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 94.15917843388961,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20866003",
+        "pdp_url": "https://www.asos.com/dorina/dorina-supima-cotton-lounge-sweat-with-drawstring-waist-in-black/prd/20866003?colourwayid=60095495",
+        "product_id": "ad29f5dee2f0685c6415471c096ae60af72a47c909b2d63b43e5a584caa1861d",
+        "rank_absolute": 221,
+        "color": "Black",
+        "product_name": "Dorina Supima cotton lounge sweat with drawstring waist in black",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/ad29f5dee2f0685c6415471c096ae60af72a47c909b2d63b43e5a584caa1861d.jpg",
+        "mrp": {
+          "INR": 2066.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2066.46
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 85.54098360655738,
+        "brand": "Dorina",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "539499012",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=539499012",
+        "product_id": "0a6a26dcf705882fd1407dd7d421777cf544c604cd9a850d4d40521d5dce8779",
+        "rank_absolute": 102,
+        "color": "Vintage Palm Green",
+        "product_name": "GapFit Runaround Crop Pants",
+        "feature_image": "https://www.gap.com/webcontent/0018/316/066/cn18316066.jpg",
+        "mrp": {
+          "INR": 4512.35
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2952.56
+        },
+        "discount": 33.29441201000834,
+        "category_id": 59,
+        "rank_percentile": 90.64516129032258,
+        "brand": "Gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "20803315",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-rib-pyjama-culotte-in-grey/prd/20803315?colourwayid=60089130",
+        "product_id": "89ca3525744d62692d09030140f313a1b0a79477c3cc2d813e93f8648f700438",
+        "rank_absolute": 374,
+        "color": "Grey",
+        "product_name": "ASOS DESIGN mix & match rib pyjama culotte in grey",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/89ca3525744d62692d09030140f313a1b0a79477c3cc2d813e93f8648f700438.jpg",
+        "mrp": {
+          "INR": 1554.31
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1564.59
+        },
+        "discount": 0,
+        "category_id": 73,
+        "rank_percentile": 62.19635627530364,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37287489",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/shorts-448/pink-sporty-neppy-runner-shorts-9777218",
+        "product_id": "ee574156c30957e19476395946c1dc18f5ecbfd146d80f2790796ad82c19c15d",
+        "rank_absolute": 216,
+        "color": "239593712",
+        "product_name": "Pink Sporty Neppy Runner Shorts",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/ee574156c30957e19476395946c1dc18f5ecbfd146d80f2790796ad82c19c15d.jpg",
+        "mrp": {
+          "INR": 857.19
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 857.19
+        },
+        "discount": 0,
+        "category_id": 93,
+        "rank_percentile": 83.56216628527841,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20194863",
+        "pdp_url": "https://www.asos.com/asos-petite/asos-design-petite-lounge-oversized-washed-jogger-in-grey-marl/prd/20194863?colourwayid=60016475",
+        "product_id": "d4c585d07a9a2c997683453aa4876da4821ecb17d4b73ee02db07dbfcded79a7",
+        "rank_absolute": 781,
+        "color": "Grey",
+        "product_name": "ASOS DESIGN Petite lounge oversized washed jogger in grey marl",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/d4c585d07a9a2c997683453aa4876da4821ecb17d4b73ee02db07dbfcded79a7.jpg",
+        "mrp": {
+          "INR": 2092.09
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 2092.09
+        },
+        "discount": 0,
+        "category_id": 112,
+        "rank_percentile": 53.29144225014961,
+        "brand": "ASOS Petite",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "13711375",
+        "pdp_url": "https://www.asos.com/asos-4505/asos-4505-icon-train-t-shirt/prd/13711375?colourwayid=16559513",
+        "product_id": "2db1e896acd5f008b15fda58c99050fcdbf1c697d4c4e6f60dfc7262a9daacce",
+        "rank_absolute": 44131,
+        "color": "Neon Yellow",
+        "product_name": "ASOS 4505 icon train t-shirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/2db1e896acd5f008b15fda58c99050fcdbf1c697d4c4e6f60dfc7262a9daacce.jpg",
+        "mrp": {
+          "INR": 1127.16
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 5,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1127.16
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 26.654533971546336,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20866310",
+        "pdp_url": "https://www.asos.com/dorina/dorina-cotton-lounge-sweat-with-drawstring-waist-in-charcoal/prd/20866310?colourwayid=60095508",
+        "product_id": "067c479a6582802c1d934ca70da9aa21a98f9b970484121109db0941195b06e1",
+        "rank_absolute": 796,
+        "color": "Charcoal",
+        "product_name": "Dorina cotton lounge sweat with drawstring waist in charcoal",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/067c479a6582802c1d934ca70da9aa21a98f9b970484121109db0941195b06e1.jpg",
+        "mrp": {
+          "INR": 2092.09
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2092.09
+        },
+        "discount": 0,
+        "category_id": 105,
+        "rank_percentile": 41.42120765832106,
+        "brand": "Dorina",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20986660",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-towelling-cropped-tee-with-scrunchie-in-lemon/prd/20986660?colourwayid=60131825",
+        "product_id": "15be49c0ca9cc0c24e3155ae952b4d8c8e8e99010c0a7202340324f9c4d3efa1",
+        "rank_absolute": 28438,
+        "color": "Lemon",
+        "product_name": "ASOS DESIGN mix & match lounge towelling cropped tee with scrunchie in lemon",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/15be49c0ca9cc0c24e3155ae952b4d8c8e8e99010c0a7202340324f9c4d3efa1.jpg",
+        "mrp": {
+          "INR": 1502.88
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 1502.88
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 52.73650445419492,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37394073",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/shorts-448/petite-black-sport-neppy-runner-shorts-9872962",
+        "product_id": "c3c769ae713f22a532eff5aebf52bf35fabdffa8a1a0bc1adfb293a553b703c6",
+        "rank_absolute": 774,
+        "color": "240393106",
+        "product_name": "PETITE Black Sport Neppy Runner Shorts",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/22/c3c769ae713f22a532eff5aebf52bf35fabdffa8a1a0bc1adfb293a553b703c6.jpg",
+        "mrp": {
+          "INR": 857.19
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 4,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 857.19
+        },
+        "discount": 0,
+        "category_id": 93,
+        "rank_percentile": 40.999237223493516,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20690494",
+        "pdp_url": "https://www.asos.com/asos-4505/asos-4505-curve-oversized-cotton-t-shirt/prd/20690494?colourwayid=60079765",
+        "product_id": "543e5757997cbcdb3edac9d0286d56ceae1a728cd8abd6d8e9fb43a5b1dfa20c",
+        "rank_absolute": 348,
+        "color": "White",
+        "product_name": "ASOS 4505 Curve oversized cotton t-shirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/543e5757997cbcdb3edac9d0286d56ceae1a728cd8abd6d8e9fb43a5b1dfa20c.jpg",
+        "mrp": {
+          "INR": 1134.26
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1366.93
+        },
+        "discount": 0,
+        "category_id": 2,
+        "rank_percentile": 60.998877665544335,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20887782",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-oversized-jogger-in-black/prd/20887782?colourwayid=60097286",
+        "product_id": "5cf4da138127971148591c2d68f73c223e08d994eef511ff949abb6acf24118d",
+        "rank_absolute": 224,
+        "color": "Black",
+        "product_name": "ASOS DESIGN lounge oversized jogger in black",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/5cf4da138127971148591c2d68f73c223e08d994eef511ff949abb6acf24118d.jpg",
+        "mrp": {
+          "INR": 1878.6
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1878.6
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 85.34426229508196,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14362257",
+        "pdp_url": "https://www.asos.com/prd/14362257",
+        "product_id": "174c89ffe377673eb7431f7e201146299d6ccecfc9fb0210a66197651df5077d",
+        "rank_absolute": 42,
+        "color": "Red",
+        "product_name": "South Beach Yoga wrap top in red",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/174c89ffe377673eb7431f7e201146299d6ccecfc9fb0210a66197651df5077d.jpg",
+        "mrp": {
+          "INR": 1331.33
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1065.06
+        },
+        "discount": 20.000000000000004,
+        "category_id": 2,
+        "rank_percentile": 95.34231200897868,
+        "brand": "South Beach",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "12566968",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-ribbed-wide-leg-cropped-trouser/prd/12566968?clr=&colourWayId=16427626",
+        "product_id": "92413eac8b6d96141657d8710b9a0a7dcaa158e84df8152d3c6a00f06ecbf924",
+        "rank_absolute": 209,
+        "color": "Oatmeal",
+        "product_name": "ASOS DESIGN mix & match lounge ribbed wide leg cropped trouser",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/92413eac8b6d96141657d8710b9a0a7dcaa158e84df8152d3c6a00f06ecbf924.jpg",
+        "mrp": {
+          "INR": 1848.59
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "7 months ago",
+        "selling_price": {
+          "INR": 1016.73
+        },
+        "discount": 45,
+        "category_id": 69,
+        "rank_percentile": 86.32786885245902,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "13892516",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-waffle-body-jogger/prd/13892516?colourwayid=16574500",
+        "product_id": "b24530f8738b992fa6495a92aa161b696afcb55128981b936d2ba747336f9644",
+        "rank_absolute": 3281,
+        "color": "Cream",
+        "product_name": "ASOS DESIGN lounge waffle body & jogger",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/b24530f8738b992fa6495a92aa161b696afcb55128981b936d2ba747336f9644.jpg",
+        "mrp": {
+          "INR": 2635.7
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 5,
+        "launch_on": "7 months ago",
+        "selling_price": {
+          "INR": 2646.61
+        },
+        "discount": 0,
+        "category_id": 26,
+        "rank_percentile": 24.707367454670646,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "28626",
+        "pdp_url": "https://www.asos.com/south-beach/south-beach-yoga-bra-and-leggings-in-grey/grp/28626",
+        "product_id": "d27f0817cd80429bb9cb4172aa8004b9f207fe4f76536e88a7449292df229652",
+        "rank_absolute": 666,
+        "color": "",
+        "product_name": "South Beach Yoga bra and leggings in grey",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/d27f0817cd80429bb9cb4172aa8004b9f207fe4f76536e88a7449292df229652.jpg",
+        "mrp": {
+          "INR": 2911.83
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 2911.83
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 87.79570878415551,
+        "brand": "South Beach",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "36898298",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/trousers-leggings-4075710/orange-fluorescent-joggers-9972986",
+        "product_id": "3b6eef20520efcc43aeb10563dae84e9a4e6857269bdd6918b5ee6f3455a00c9",
+        "rank_absolute": 135,
+        "color": "236793062",
+        "product_name": "Orange Fluorescent Joggers",
+        "feature_image": "https://images.topshop.com/i/TopShop/TS16J23SOGE_M_1.jpg?$Zoom$",
+        "mrp": {
+          "INR": 2227.84
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 2227.84
+        },
+        "discount": 0,
+        "category_id": 115,
+        "rank_percentile": 75.72202166064982,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37111769",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/t-shirts-6864659/pink-slinky-v-neck-t-shirt-9978405",
+        "product_id": "753a9e5569fbcec2639346cfbe36edff804911f5ca55d1407c93e71059825018",
+        "rank_absolute": 5209,
+        "color": "238334594",
+        "product_name": "Pink Slinky V Neck T-Shirt",
+        "feature_image": "https://images.topshop.com/i/TopShop/TS09A36SPNK_M_1.jpg?$Zoom$",
+        "mrp": {
+          "INR": 1409.85
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 4,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1391.95
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 58.537653239929945,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "28317",
+        "pdp_url": "https://www.asos.com/hiit/hiit-leggings-in-mint-with-mesh-panel/grp/28317?colourwayid=16623417",
+        "product_id": "ae626be3dddef871beba3c830ee2adbdb6996c11d7f08a12a599c38149894882",
+        "rank_absolute": 688,
+        "color": "",
+        "product_name": "HIIT mesh leggings, bra and vest in mint",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/ae626be3dddef871beba3c830ee2adbdb6996c11d7f08a12a599c38149894882.jpg",
+        "mrp": {
+          "INR": 1901.9
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1901.9
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 87.39226114065652,
+        "brand": "HIIT",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14014030",
+        "pdp_url": "https://www.asos.com/asos-curve/asos-design-curve-lounge-sweat-jogger-set/prd/14014030?colourwayid=16584690",
+        "product_id": "f652f2d72d2cfeb1931b552c92c5bb1bdc2de85147864819486c473d9c179008",
+        "rank_absolute": 593,
+        "color": "Black",
+        "product_name": "ASOS DESIGN Curve lounge sweat & jogger set",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/10/f652f2d72d2cfeb1931b552c92c5bb1bdc2de85147864819486c473d9c179008.jpg",
+        "mrp": {
+          "INR": 2401.07
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2525.75
+        },
+        "discount": 0,
+        "category_id": 26,
+        "rank_percentile": 86.4011934817535,
+        "brand": "ASOS Curve",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37526036",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/hoodies-sweats-6864676/sage-cropped-sweatshirt-9848666",
+        "product_id": "08a6a78b6b61dcf9a34f1410d9ac09ae09096e7b5cedebe8fbfa9c8e9b17f4b9",
+        "rank_absolute": 151,
+        "color": "241325426",
+        "product_name": "Sage Cropped Sweatshirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/22/08a6a78b6b61dcf9a34f1410d9ac09ae09096e7b5cedebe8fbfa9c8e9b17f4b9.jpg",
+        "mrp": {
+          "INR": 1371.5
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 4,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 1371.5
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 69.0965092402464,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "542608032",
+        "pdp_url": "https://www.gap.com/browse/product.do?pcid=1011761&pid=542608032",
+        "product_id": "40b0898537af31980eb34424bdfcefd5277d7862e1ae0dbc7314669f3b269215",
+        "rank_absolute": 171,
+        "color": "Fire Coral Pink/Tall",
+        "product_name": "Utility Jogger",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/113/40b0898537af31980eb34424bdfcefd5277d7862e1ae0dbc7314669f3b269215.jpg",
+        "mrp": {
+          "INR": 4573.08
+        },
+        "locale_id": 1,
+        "channel_id": 113,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3203.82
+        },
+        "discount": 29.941618015012512,
+        "category_id": 59,
+        "rank_percentile": 84.28571428571429,
+        "brand": "gap",
+        "channel": "Gap US",
+        "department_id": 2
+      },
+      {
+        "sku": "20684368",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-lounge-high-waist-legging-in-stone/prd/20684368?colourwayid=60079185",
+        "product_id": "c30d910093e7bdbd067ab6ea61530665da6e4f4795b07ff537829268ca9ed1d3",
+        "rank_absolute": 301,
+        "color": "Stone",
+        "product_name": "ASOS DESIGN mix & match lounge high waist legging in stone",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/c30d910093e7bdbd067ab6ea61530665da6e4f4795b07ff537829268ca9ed1d3.jpg",
+        "mrp": {
+          "INR": 1315.02
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1315.02
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 80.29508196721312,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "24852",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-mix-and-match-wait-detail-sweat-and-wide-leg-trouser/grp/24852?clr=&colourWayId=16427879",
+        "product_id": "d2b7dc85a2778f6a91352abbece47cdee7cbac4d48c5ce43386c147eba920f9c",
+        "rank_absolute": 329,
+        "color": "",
+        "product_name": "ASOS DESIGN lounge mix and match wait detail sweat and wide leg trouser",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/d2b7dc85a2778f6a91352abbece47cdee7cbac4d48c5ce43386c147eba920f9c.jpg",
+        "mrp": {
+          "INR": 3697.18
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "7 months ago",
+        "selling_price": {
+          "INR": 1663.73
+        },
+        "discount": 55,
+        "category_id": 69,
+        "rank_percentile": 78.45901639344262,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37207430",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/t-shirts-6864659/orange-raglan-crop-t-shirt-9747281",
+        "product_id": "b071eaceed59a5aab57047ef6243da8b561c6d5b731977f3c96c3b8e43f935c1",
+        "rank_absolute": 1135,
+        "color": "239021339",
+        "product_name": "Orange Raglan Crop T-Shirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/b071eaceed59a5aab57047ef6243da8b561c6d5b731977f3c96c3b8e43f935c1.jpg",
+        "mrp": {
+          "INR": 660.63
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 260.33
+        },
+        "discount": 62.5,
+        "category_id": 107,
+        "rank_percentile": 74.16894353369763,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "28509",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-mix-match-jersey-rib-lace-short/grp/28509?colourwayid=16636501",
+        "product_id": "185ff5502f4d471bc8b0bba5b775a3b30e44caab77c691be5f6d4dd366b8824d",
+        "rank_absolute": 89,
+        "color": "",
+        "product_name": "ASOS DESIGN mix & match jersey rib & lace tshirt and short set",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/185ff5502f4d471bc8b0bba5b775a3b30e44caab77c691be5f6d4dd366b8824d.jpg",
+        "mrp": {
+          "INR": 871.61
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 951.27
+        },
+        "discount": 0,
+        "category_id": 468,
+        "rank_percentile": 97.78694673668417,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "37413662",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/trousers-leggings-4075710/white-cuffed-utility-trousers-9768003",
+        "product_id": "c9d710f64792fe4bcac2014b006aa30783b5bd3d1cd7beb5a9110e4abc29f251",
+        "rank_absolute": 147,
+        "color": "240519396",
+        "product_name": "White Cuffed Utility Trousers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/c9d710f64792fe4bcac2014b006aa30783b5bd3d1cd7beb5a9110e4abc29f251.jpg",
+        "mrp": {
+          "INR": 3085.03
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 3085.03
+        },
+        "discount": 0,
+        "category_id": 115,
+        "rank_percentile": 73.55595667870035,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20744436",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-co-ord-oversized-tee-in-washed-pink/prd/20744436?colourwayid=60084632",
+        "product_id": "d92d188b31188fac933923fc124d6ea16558d399622c0c72d194b4a943a3d40d",
+        "rank_absolute": 321,
+        "color": "Washed Pink",
+        "product_name": "ASOS DESIGN lounge co-ord oversized tee in washed pink",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/d92d188b31188fac933923fc124d6ea16558d399622c0c72d194b4a943a3d40d.jpg",
+        "mrp": {
+          "INR": 1331.33
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1331.33
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 78.98360655737704,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20196277",
+        "pdp_url": "https://www.asos.com/stradivarius/stradivarius-jogger-in-white/prd/20196277?colourwayid=60016607",
+        "product_id": "eb27894b7608178bc9b79e9aaa8cfed59e09098fc0c91beb479169290c10443a",
+        "rank_absolute": 104,
+        "color": "Off-White",
+        "product_name": "Stradivarius jogger in white",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/10/eb27894b7608178bc9b79e9aaa8cfed59e09098fc0c91beb479169290c10443a.jpg",
+        "mrp": {
+          "INR": 1476.66
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 1503.27
+        },
+        "discount": 0,
+        "category_id": 112,
+        "rank_percentile": 93.80610412926391,
+        "brand": "Stradivarius",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "29221",
+        "pdp_url": "https://www.asos.com/nike-training/nike-yoga-luxe-crop-top-with-stitch-detail-in-lilac/grp/29221?colourwayid=16584473",
+        "product_id": "ef21e942cccabad5382204f5c764c582e2adbe56ff67c187cf9b0a941d8314d2",
+        "rank_absolute": 1036,
+        "color": "",
+        "product_name": "Nike Yoga luxe stitch detail set in lilac",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/ef21e942cccabad5382204f5c764c582e2adbe56ff67c187cf9b0a941d8314d2.jpg",
+        "mrp": {
+          "INR": 3757.2
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 3757.2
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 81.01045296167247,
+        "brand": "Nike Training",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14086338",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-super-oversized-t-shirt-with-exposed-seams-in-washed-sage/prd/14086338?colourwayid=16590378",
+        "product_id": "8b19ab566d34b650f5fcb5cfa9a82665656a44be8cdd1fbacb81b92c1afa5fee",
+        "rank_absolute": 383,
+        "color": "Sage",
+        "product_name": "ASOS DESIGN super oversized t-shirt with exposed seams in washed sage",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/8b19ab566d34b650f5fcb5cfa9a82665656a44be8cdd1fbacb81b92c1afa5fee.jpg",
+        "mrp": {
+          "INR": 1315.02
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1061.41
+        },
+        "discount": 19.28571428571428,
+        "category_id": 69,
+        "rank_percentile": 74.91803278688525,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "55674824_001",
+        "pdp_url": "https://www.anthropologie.com/shop/varley-maceo-sweatshirt?color=001",
+        "product_id": "9f6e923eb6d6b591a8ff4bb63f413796159cda9af2c0b80abd7ca7b2e6b16a8e",
+        "rank_absolute": 425,
+        "color": "Black",
+        "product_name": "Varley Maceo Sweatshirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/48/9f6e923eb6d6b591a8ff4bb63f413796159cda9af2c0b80abd7ca7b2e6b16a8e.jpg",
+        "mrp": {
+          "INR": 8921.68
+        },
+        "locale_id": 1,
+        "channel_id": 48,
+        "label_id": 4,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 8921.68
+        },
+        "discount": 0,
+        "category_id": 212,
+        "rank_percentile": 54.69583778014941,
+        "brand": "Varley",
+        "channel": "Anthropologie US",
+        "department_id": 2
+      },
+      {
+        "sku": "55666283_010",
+        "pdp_url": "https://www.anthropologie.com/shop/varley-kerri-side-zip-sherpa-sweatshirt?color=010",
+        "product_id": "bd313c838eb0e5265ad869c77abc1e857a81435b7afd3a62275486bdeb2ce85a",
+        "rank_absolute": 70,
+        "color": "White",
+        "product_name": "Varley Kerri Side-Zip Sherpa Sweatshirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/48/bd313c838eb0e5265ad869c77abc1e857a81435b7afd3a62275486bdeb2ce85a.jpg",
+        "mrp": {
+          "INR": 10433.83
+        },
+        "locale_id": 1,
+        "channel_id": 48,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 10433.83
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 80.69444444444444,
+        "brand": "Varley",
+        "channel": "Anthropologie US",
+        "department_id": 2
+      },
+      {
+        "sku": "20003289",
+        "pdp_url": "https://www.asos.com/collusion/collusion-longline-jersey-shorts-in-lilac/prd/20003289?colourwayid=60000446",
+        "product_id": "f3918e376d558f962dafb83055faefdb5cb5b4c122aa332e849e50b00d381713",
+        "rank_absolute": 345,
+        "color": "Lilac",
+        "product_name": "COLLUSION longline jersey shorts in lilac",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/f3918e376d558f962dafb83055faefdb5cb5b4c122aa332e849e50b00d381713.jpg",
+        "mrp": {
+          "INR": 1141.14
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 1141.14
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 77.40983606557377,
+        "brand": "Collusion",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "35598088",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/trousers-leggings-4075710/classic-grey-90s-oversized-joggers-9417554",
+        "product_id": "d0a4e66fd38f48a37485c784895d7ed5b4dca47ec6808b3de05f8be81ffe5e2a",
+        "rank_absolute": 18,
+        "color": "226641978",
+        "product_name": "Classic Grey 90's Oversized Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/d0a4e66fd38f48a37485c784895d7ed5b4dca47ec6808b3de05f8be81ffe5e2a.jpg",
+        "mrp": {
+          "INR": 2142.97
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2142.97
+        },
+        "discount": 0,
+        "category_id": 115,
+        "rank_percentile": 96.84115523465704,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14251999",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-super-crop-sweat-with-seam-detail-in-black/prd/14251999?colourwayid=16602928",
+        "product_id": "ce69641627f2e7ef52aaf26847c571c204a9419696cf60e8c810910ed6e5524c",
+        "rank_absolute": 49,
+        "color": "Black",
+        "product_name": "ASOS DESIGN super crop sweat with seam detail in black",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/ce69641627f2e7ef52aaf26847c571c204a9419696cf60e8c810910ed6e5524c.jpg",
+        "mrp": {
+          "INR": 1320.6
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 2,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 1321.85
+        },
+        "discount": 0,
+        "category_id": 105,
+        "rank_percentile": 96.42857142857143,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20833104",
+        "pdp_url": "https://www.asos.com/new-balance/new-balance-running-accelerate-t-shirt-in-pink/prd/20833104?colourwayid=60092660",
+        "product_id": "ba99035cc33493bace249a658816b697ec5d7f5d0f98a37b02b742c6ddbe30a5",
+        "rank_absolute": 36750,
+        "color": "Pink",
+        "product_name": "New Balance Running accelerate T-Shirt in pink",
+        "feature_image": "https://images.asos-media.com/products/new-balance-running-accelerate-t-shirt-in-pink/20833104-1-pink?$XXL$",
+        "mrp": {
+          "INR": 2348.25
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2348.25
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 38.921852147320834,
+        "brand": "New Balance",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "36644157",
+        "pdp_url": "https://www.topshop.com/en/tsuk/product/clothing-427/hoodies-sweats-6864676/ecru-stonewash-pocket-sweatshirt-9775540",
+        "product_id": "9cce049f959e1629b1ce41f831f4b6cd5e81c28b1e3fba2d46c3ebf43987687f",
+        "rank_absolute": 175,
+        "color": "234988047",
+        "product_name": "Ecru Stonewash Pocket Sweatshirt",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/22/9cce049f959e1629b1ce41f831f4b6cd5e81c28b1e3fba2d46c3ebf43987687f.jpg",
+        "mrp": {
+          "INR": 2890.24
+        },
+        "locale_id": 1,
+        "channel_id": 22,
+        "label_id": 4,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2184.72
+        },
+        "discount": 28.571428571428573,
+        "category_id": 69,
+        "rank_percentile": 64.16837782340862,
+        "brand": "Topshop",
+        "channel": "Topshop UK",
+        "department_id": 2
+      },
+      {
+        "sku": "154540",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/154540/orange-label-elite-joggers",
+        "product_id": "2010bfa43221364e4ca625338f759a10aa6e4b1e847b6a6c6eac017d5409ab98",
+        "rank_absolute": 170,
+        "color": "Dusty Lilac",
+        "product_name": "Orange Label Elite Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/2010bfa43221364e4ca625338f759a10aa6e4b1e847b6a6c6eac017d5409ab98.jpg",
+        "mrp": {
+          "INR": 4154.77
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2200.21
+        },
+        "discount": 49.98888641920426,
+        "category_id": 59,
+        "rank_percentile": 81.69546436285097,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "174867",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/174867/embroidered-serif-joggers",
+        "product_id": "22a0ef3e6b093aa067011a71012ee999b21399a3b20db8663fd9b64bbc56830d",
+        "rank_absolute": 15,
+        "color": "Applique Summer Marl",
+        "product_name": "Embroidered Serif Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/22a0ef3e6b093aa067011a71012ee999b21399a3b20db8663fd9b64bbc56830d.jpg",
+        "mrp": {
+          "INR": 4616.51
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 2,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 2444.67
+        },
+        "discount": 49.989997999599915,
+        "category_id": 59,
+        "rank_percentile": 98.4341252699784,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20775211",
+        "pdp_url": "https://www.asos.com/in-the-style/in-the-style-x-jac-jossa-loungewear-ribbed-off-shoulder-tie-detail-playsuit-in-blush/prd/20775211?colourwayid=60086956",
+        "product_id": "a0862678cf26ffc5cfa2d49f6ca3ff6ae850466832fd66084757313099ccf2d8",
+        "rank_absolute": 353,
+        "color": "Blush",
+        "product_name": "In The Style x Jac Jossa loungewear ribbed off shoulder tie detail playsuit in blush",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/a0862678cf26ffc5cfa2d49f6ca3ff6ae850466832fd66084757313099ccf2d8.jpg",
+        "mrp": {
+          "INR": 2630.04
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 2630.04
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 76.88524590163935,
+        "brand": "In The Style",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14965041",
+        "pdp_url": "https://www.asos.com/gilly-hicks/gilly-hicks-lounge-wear-sweater-in-pink-wash/prd/14965041?colourwayid=16660939",
+        "product_id": "c1c3308a9bfca21ce1b5cd13af031f52332ec0ac9500aed33d0ac0d036e1421f",
+        "rank_absolute": 425,
+        "color": "Pink Wash",
+        "product_name": "Gilly Hicks lounge wear sweater in pink wash",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/c1c3308a9bfca21ce1b5cd13af031f52332ec0ac9500aed33d0ac0d036e1421f.jpg",
+        "mrp": {
+          "INR": 2567.57
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "3 months ago",
+        "selling_price": {
+          "INR": 2567.57
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 72.1639344262295,
+        "brand": "Gilly Hicks",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20732174",
+        "pdp_url": "https://www.asos.com/outrageous-fortune/outrageous-fortune-loungewear-bodycon-short-in-grey/prd/20732174?colourwayid=60083335",
+        "product_id": "3fb41078d3bd087ddcc4f7f6837f4649da9e1417fe00330f56de37f9ffc61ea4",
+        "rank_absolute": 424,
+        "color": "Grey",
+        "product_name": "Outrageous Fortune loungewear bodycon short in grey",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/10/3fb41078d3bd087ddcc4f7f6837f4649da9e1417fe00330f56de37f9ffc61ea4.jpg",
+        "mrp": {
+          "INR": 931.46
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "3 months ago",
+        "selling_price": {
+          "INR": 856.14
+        },
+        "discount": 10,
+        "category_id": 69,
+        "rank_percentile": 72.22950819672131,
+        "brand": "Outrageous Fortune",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "158679",
+        "pdp_url": "https://www.superdry.com/womens/joggers/details/158679/studio-joggers",
+        "product_id": "d9fdc0e9d978db9b5a7655d71a671ecba1c1d089663d3b1e61eadb45d2d44a4b",
+        "rank_absolute": 193,
+        "color": "Greystone",
+        "product_name": "Studio Joggers",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/05/56/d9fdc0e9d978db9b5a7655d71a671ecba1c1d089663d3b1e61eadb45d2d44a4b.jpg",
+        "mrp": {
+          "INR": 4695.56
+        },
+        "locale_id": 1,
+        "channel_id": 56,
+        "label_id": 3,
+        "launch_on": "4 months ago",
+        "selling_price": {
+          "INR": 4695.56
+        },
+        "discount": 0,
+        "category_id": 59,
+        "rank_percentile": 79.21166306695464,
+        "brand": "Superdry",
+        "channel": "Superdry UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14286587",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-lounge-hoodie-board-short-in-lilac/prd/14286587?colourwayid=16605281",
+        "product_id": "fcc811edd34195558c69cebbb27295608649e2b410cbf53225a98019e0ab4549",
+        "rank_absolute": 406,
+        "color": "Lilac",
+        "product_name": "ASOS DESIGN lounge hoodie & board short in lilac",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/fcc811edd34195558c69cebbb27295608649e2b410cbf53225a98019e0ab4549.jpg",
+        "mrp": {
+          "INR": 2865.22
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2933.61
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 73.40983606557377,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "790478",
+        "pdp_url": "https://www.riverisland.com/p/lilac-high-waist-cycling-shorts-790478.html",
+        "product_id": "f0a149f23c15e008493508265141f29a6c2dedd692f30cd3fa5820756df6e9af",
+        "rank_absolute": 193,
+        "color": "Purple",
+        "product_name": "Lilac high waist cycling shorts",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/07/20/f0a149f23c15e008493508265141f29a6c2dedd692f30cd3fa5820756df6e9af.jpg",
+        "mrp": {
+          "INR": 777.15
+        },
+        "locale_id": 1,
+        "channel_id": 20,
+        "label_id": 4,
+        "launch_on": "2 months ago",
+        "selling_price": {
+          "INR": 777.15
+        },
+        "discount": 0,
+        "category_id": 93,
+        "rank_percentile": 63.40304182509506,
+        "brand": "River Island",
+        "channel": "RiverIsland UK",
+        "department_id": 2
+      },
+      {
+        "sku": "13912327",
+        "pdp_url": "https://www.asos.com/reebok/reebok-training-cropped-t-shirt-in-white/prd/13912327?colourwayid=16576074",
+        "product_id": "72067cdcd53164672a820bb44a3450fb7e9962b4a19b6b5ab3f2633e5df7ac41",
+        "rank_absolute": 41348,
+        "color": "White",
+        "product_name": "Reebok Training cropped t-shirt in white",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/04/10/72067cdcd53164672a820bb44a3450fb7e9962b4a19b6b5ab3f2633e5df7ac41.jpg",
+        "mrp": {
+          "INR": 2630.04
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 4,
+        "launch_on": "5 months ago",
+        "selling_price": {
+          "INR": 2630.04
+        },
+        "discount": 0,
+        "category_id": 110,
+        "rank_percentile": 31.27991623454328,
+        "brand": "Reebok",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14252249",
+        "pdp_url": "https://www.asos.com/asos-design/asos-design-oversized-boxy-crop-hoodie-with-drop-neck-in-brown/prd/14252249?colourwayid=16602955",
+        "product_id": "8bb3952b247e828746e774d89cffa453565fc6c0fc0e5755790647d8b043f3d9",
+        "rank_absolute": 429,
+        "color": "Brown",
+        "product_name": "ASOS DESIGN oversized boxy crop hoodie with drop neck in brown",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/03/10/8bb3952b247e828746e774d89cffa453565fc6c0fc0e5755790647d8b043f3d9.jpg",
+        "mrp": {
+          "INR": 1640.76
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "6 months ago",
+        "selling_price": {
+          "INR": 1701.39
+        },
+        "discount": 0,
+        "category_id": 69,
+        "rank_percentile": 71.90163934426229,
+        "brand": "ASOS DESIGN",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "20358423",
+        "pdp_url": "https://www.asos.com/prd/20358423",
+        "product_id": "56e8166cf5a0db1b391684c65948ada1e65cad25d88ad3fab832242aaf14ea41",
+        "rank_absolute": 1364,
+        "color": "Khaki",
+        "product_name": "ASOS 4505 yoga wide leg bottoms",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/08/10/56e8166cf5a0db1b391684c65948ada1e65cad25d88ad3fab832242aaf14ea41.jpg",
+        "mrp": {
+          "INR": 2452.72
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "1 month ago",
+        "selling_price": {
+          "INR": 2350.33
+        },
+        "discount": 0,
+        "category_id": 1,
+        "rank_percentile": 74.99541536768751,
+        "brand": "ASOS 4505",
+        "channel": "Asos UK",
+        "department_id": 2
+      },
+      {
+        "sku": "14974341",
+        "pdp_url": "https://www.asos.com/yas/yas-textured-slip-midi-dress-with-pleated-hem-in-beige/prd/14974341?colourwayid=16661672",
+        "product_id": "e7153f225daed7427376f22e9784df4b892560643eeead7a1d0e1981ed8cca4b",
+        "rank_absolute": 13600,
+        "color": "Beige",
+        "product_name": "Y.A.S textured slip midi dress with pleated hem in beige",
+        "feature_image": "https://assets.stylumia.com/w_400_h_auto/jpg/2020/06/10/e7153f225daed7427376f22e9784df4b892560643eeead7a1d0e1981ed8cca4b.jpg",
+        "mrp": {
+          "INR": 4608.65
+        },
+        "locale_id": 1,
+        "channel_id": 10,
+        "label_id": 3,
+        "launch_on": "3 months ago",
+        "selling_price": {
+          "INR": 2525.75
+        },
+        "discount": 45.833333333333336,
+        "category_id": 30,
+        "rank_percentile": 83.29115012716393,
+        "brand": "Y.A.S",
+        "channel": "Asos UK",
+        "department_id": 2
+      }
+    ],
+    "updated_on": "Thu Aug 27 12:12:19 2020"
+  }
